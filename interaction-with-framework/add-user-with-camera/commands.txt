@@ -1,0 +1,1 @@
+python add-user-with-camera.py --person-id Adrian --ip-address 40.66.58.248 --img-number 20 --create-id --train

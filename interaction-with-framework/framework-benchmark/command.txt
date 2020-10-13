@@ -1,0 +1,1 @@
+python API-benchmark.py --ip-address 40.66.58.248 --source-img Test_image.jpg --batch-size 100 --timeout 120

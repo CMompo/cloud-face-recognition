@@ -1,0 +1,3 @@
+python video-face-images-extractor.py --video-source C:\Users\adsam\Desktop\Face_Recognition_Project\Test_Videos\london-walk-10min.mp4 --output-folder C:\Users\adsam\Desktop\DELETEME --target-fps 6 --min-size 30 --max-size 150
+
+python video-face-images-extractor.py --video-source C:\Users\adsam\Downloads\Indiana-Jones.mp4 --output-folder indiana-jones --min-size 0 --max-size 1000

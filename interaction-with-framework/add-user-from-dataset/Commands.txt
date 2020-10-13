@@ -1,0 +1,13 @@
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Jose_Maria_Aznar --person-id "Jose Maria Aznar" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Bill_Gates --person-id "Bill Gates" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Bill_Clinton --person-id "Bill Clinton" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Fidel_Castro --person-id "Fidel Castro" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Hillary_Clinton --person-id "Hillary Clinton" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw\Harrison_Ford --person-id "Harrison Ford" --create-id --train
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Datasets\lfw-10\Jennifer_Aniston --person-id "Jennifer A" --create-id --train

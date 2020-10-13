@@ -1,0 +1,1 @@
+python real-time-camera.py --ip-address 40.66.58.248 --min-confidence 0.6 --multithreading

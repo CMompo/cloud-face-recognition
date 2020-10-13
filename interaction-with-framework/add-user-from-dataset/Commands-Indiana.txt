@@ -1,0 +1,8 @@
+## Indiana Jones
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\indiana-jones-crystal-skull\Cate_Blanchett --person-id "Cate B" --create-id
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\indiana-jones-crystal-skull\Harrison_Ford --person-id "Harrison F" --create-id
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\indiana-jones-crystal-skull\Karen_Allen --person-id "Karen A" --create-id
+
+python add-user-from-dataset.py --ip-address 40.66.58.248 --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\indiana-jones-crystal-skull\Shia_LaBeouf --person-id "Shia LB" --create-id --train

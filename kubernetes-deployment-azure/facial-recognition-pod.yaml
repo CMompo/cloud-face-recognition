@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: face-recognition-pod
+  labels:
+    app: face-recognition
+spec:
+  containers:
+  - name: face-recognition
+    image: adrianmompo/face-recognition:latest
+    imagePullPolicy: Always
+    volumeMounts:
+      - name: nfs-volume
+        mountPath: /app/nfs
+    ports:
+      - containerPort: 5000
+  imagePullSecrets:
+  - name: regcred
+  volumes:
+    - name: nfs-volume
+      nfs:
+        server: 10.240.0.5
+        path: /nfs

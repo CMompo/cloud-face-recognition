@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: face-recognition-db-pod
+  labels:
+    app: face-recognition-db
+spec:
+  containers:
+  - name: face-recognition-db
+    image: adrianmompo/face-recognition-db:latest
+    imagePullPolicy: Always
+    ports:
+      - containerPort: 3306
+#  imagePullSecrets:
+#  - name: regcred

@@ -1,0 +1,1 @@
+python send-images-from-folder.py --input-folder C:\Users\adsam\Desktop\Face_Recognition_Project\Extracted_faces\london-walk-6fps-30-150 --ip-address 40.66.58.248 --dry-run --stats

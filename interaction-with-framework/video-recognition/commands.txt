@@ -1,0 +1,1 @@
+python video-recognition.py --ip-address 40.66.58.248 --video-source C:\Users\adsam\Downloads\Indiana-Jones.mp4 --target-fps 6 --multithreading --min-confidence 0.7 --break-at-eof
