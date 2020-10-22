@@ -191,4 +191,4 @@ For a documentation regarding the API calls available in the API, please refer t
 
 If you are interested in contributing to this project, please contact me (@CMompo) so that we can chat over what can be improved and what needs fixing. Feel free to use the code in this project, taking into account the licensing (basically you have to mention me (Adrian Mompo) and Arsfutura in any derivate work). Also, feel free to copy the license if you want to.
 
-For more information, please refer to the complete documentation at (Link to TFM.). Note that this documentation in that link only covers changes made until August 2020. Posterior changes will be reflected in the documentation available here.
+For more information, please refer to the complete documentation for the Master's Thesis at [RiuNet](https://riunet.upv.es/handle/10251/152367). Note that this documentation in that link only covers changes made until August 2020. Posterior changes will be reflected in the documentation available here.
